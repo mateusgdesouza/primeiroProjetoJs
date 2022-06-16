@@ -1,0 +1,65 @@
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+
+	max-width: 100vw;
+    text-align: center;
+    width: 80%;
+	display: block;
+ 	margin: 0px auto;
+	
+}
+
+#imagem {
+
+	width: 80%;
+	display: block;
+ 	margin: 0px auto;
+
+}
+
+
+	h1{
+
+		text-align: center;
+
+	}
+
+p {
+
+	text-align: center; 
+		    
+   }
+
+   h2{
+
+		color:#000099 ;
+		text-align: center;
+
+		font-style: italic;
+
+	}
+
+ h3{
+
+		text-align: center;
+
+	}
+
+.psone { 
+
+    text-align: center;
+    width: 80%;
+	display: block;
+ 	margin: 0px auto;
+}
+
+table{
+
+	margin: auto;
+}
